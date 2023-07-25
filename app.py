@@ -7,4 +7,4 @@ st.subheader('Upload the Picture of your Dream House and get a predicted price.'
 
 
 
-st.button(label="Upload")
+st.button(label="Upload your House Image ")
